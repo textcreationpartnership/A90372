@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Pembroke his declaration and resolution, to the high court of Parliament, concerning his election by the Parliament to be generall for the westerne parts of the kingdome containing these counties following: viz. Wiltshire. Somersetshire. Hampshire. Dorsetshire. Devonshire. Cornwall. the Isle of Wight. Wherein is shewed his good affection to the King and Parliament, with his noble and undaunted resolution for preserving the peace of the kingdome. Also an ordinance of Parliament for setting out ten ships for a winter-guard for Ireland, with letters of surprisall for the taking of the rebels ships, or any others that shall offer to assist them.</title>
+            <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90372</idno>
+            <idno type="STC">Wing P1117</idno>
+            <idno type="STC">Thomason E126_3</idno>
+            <idno type="STC">ESTC R15571</idno>
+            <idno type="EEBO-CITATION">99859887</idno>
+            <idno type="PROQUEST">99859887</idno>
+            <idno type="VID">111989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Pembroke his declaration and resolution, to the high court of Parliament, concerning his election by the Parliament to be generall for the westerne parts of the kingdome containing these counties following: viz. Wiltshire. Somersetshire. Hampshire. Dorsetshire. Devonshire. Cornwall. the Isle of Wight. Wherein is shewed his good affection to the King and Parliament, with his noble and undaunted resolution for preserving the peace of the kingdome. Also an ordinance of Parliament for setting out ten ships for a winter-guard for Ireland, with letters of surprisall for the taking of the rebels ships, or any others that shall offer to assist them.</title>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 1. Printed for Thomas Holt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111989:1" rendition="simple:additions"/>
+            <p>THE EARLE OF PEMBROKE HIS DECLARATION and RESOLUTION, to the High Court of Parliament, CONCERNING His Election by the Parliament to be Generall for the Weſterne Parts of the Kingdome, containing theſe Counties following: <hi>viz.</hi>
+               <list>
+                  <item>Wiltſhire.</item>
+                  <item>Somerſetſhire.</item>
+                  <item>Hampſhire.</item>
+                  <item>Dorſetſhire.</item>
+                  <item>Devonſhire.</item>
+                  <item>Cornwall.</item>
+                  <item>The Iſle of Wight.</item>
+               </list>
+            </p>
+            <p>Wherein is ſhewed his good affection to the King and Parli<g ref="char:EOLhyphen"/>ament, with his noble and undaunted Reſolution for preſerving the peace of the Kingdome.</p>
+            <p>ALSO An Ordinance of Parliament for ſetting out ten ſhips for a Winter-guard for Ireland, with Letters of Surpriſall for the taking of the Rebels ſhips, or any others that ſhall offer to aſſiſt them.</p>
+            <p>
+               <hi>LONDON, Novemb.</hi> 1. Printed for <hi>Thomas Holt.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:111989:2"/>
+            <pb n="1" facs="tcp:111989:2"/>
+            <head>THE EARLE OF PEMBROKE HIS DECLARATION and RESOLUTION concerning his being made Generall for the Weſterne parts of the Kingdome.</head>
+            <head>ALSO An Ordinance of Parliament for the ſetting forth of ten ſhips more for a winter-guard for <hi>Ireland,</hi> with a Letter of Surpriſall for taking of the Rebels ſhips, and all others that ſhall aſsiſt them.</head>
+            <p>THe Lords and Commons aſſembled in Parliament, taking into conſide<g ref="char:EOLhyphen"/>ration the great danger and mani<g ref="char:EOLhyphen"/>fold inconveniences which might happ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the whole Kingdome, if Sir Ral<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hopton and the other Malignants th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take part with him, ſhould in that rebelli<g ref="char:EOLhyphen"/>ous manner as they have already begun,
+<pb n="2" facs="tcp:111989:3"/>
+contin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o raiſe more Force in the Coun<g ref="char:EOLhyphen"/>ty, and commit ſuch outrages as they have done, in plundering and diſarming thoſe who ſtand well-affected to the King and Parliament in that County, have thought it neceſſary to nominate the Earle of Pem<g ref="char:EOLhyphen"/>broke to be Generall for the Weſterne parts of the Kingdome, a Perſon of honour, power, fidelity and undaunted courage, whoſe affection to this cauſe is ſuch, that he hath in a publike manner declared his willingneſſe to obey the commands of both Houſes of Parliament, in adventuring his life and fortunes in this cauſe, which ſo much conduceth to the honour and good of the King, the preſervation of the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, the maintenance of Religion, and the generall peace and ſafety of the whole Kingdome. His Lordſhip hath ſufficiently declared his reſolution &amp; good affection to the publike good in his late Speech at Guild-Hall, intimating, that he had ever ſo good a heart to this buſi<g ref="char:EOLhyphen"/>neſſe, that he was reſolved to live and die in it.</p>
+            <p>
+               <pb n="3" facs="tcp:111989:3"/>The Counties of which he is made Ge<g ref="char:EOLhyphen"/>nerall are theſe: viz. Wiltſhire, Somerſet<g ref="char:EOLhyphen"/>ſhire, Hampſhire, Dorſetſhire, Devonſhire, Cornwall, and the Iſle of Wight, and hath the like power with the Lord Generall the Earle of Eſſex, and is to diſarme the mali<g ref="char:EOLhyphen"/>gnants and ill-affected parties of thoſe Counties, and to quarter on their eſtates for the ſervice of the Common-wealth.</p>
+            <p>After the late battell betwixt Banbury, and Stratford upon Avon, betweene the Earl of Eſſex, and the Kings Forces, where<g ref="char:EOLhyphen"/>in many were ſlaine on both ſides, and di<g ref="char:EOLhyphen"/>verſe eminent men of the Kings Party ta<g ref="char:EOLhyphen"/>ken priſoners, as the Earl of Lindſey Lord chiefe Generall of His Majeſties Forces, the Lord Willoughby of Eresby his ſonne, Sir Edmund Stradling, Colonell Vavaſor, Colonell Lunsford, and divers more, his Excellency remaining Maſter of the field, marched with his Forces to Warwick, and is come ſafe thither, and hath laid his pri<g ref="char:EOLhyphen"/>ſoners in the Caſtle, but the Earle of Lind<g ref="char:EOLhyphen"/>ſey, who was ſorely wounded when he was taken priſoner, in the ſaid battell, is ſince dead.</p>
+            <p>
+               <pb n="4" facs="tcp:111989:4"/>There was a Prieſts lately taken at Clar<g ref="char:EOLunhyphen"/>kenwell, who had a Letter found about him full of treachery againſt the King and Parliament, wherein are diſcovered their policy uſed for the ſubverſion of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, the ſubſtance of it was as followeth in the vere words of the Let<g ref="char:EOLhyphen"/>ter found about him.</p>
+            <p>We have now many ſtrings to our bow, and have ſtrongly fortified our faction, and we have added two bulwarks more. For when K. JAMES was very violent againſt Arminianiſme, and interrupted with his peſtilent wit and deep learning our ſtrong deſignes in Holland, and was a great friend to that old rebellious heretick the Prince of Orange; now we have planted the ſo<g ref="char:EOLhyphen"/>veraigne drug of Arminianiſme, which we hope will purge the Proteſtants from their hereſie, and will flouriſh and bear fruit in due ſeaſon.</p>
+            <p>But to return again to our main fabrick: In the firſt place we take into conſideration the Kings honour &amp; preſent neceſsity, and we ſhew how the King may free himſelfe
+<pb n="5" facs="tcp:111989:4"/>
+from his wardſhip as Lewis the 11. did; and for his great ſplendor and luſtre, he may raiſe vaſt ſummes, and not be beholden to his ſubjects, which is by way of impoſition and Exciſe: we inſtance the Low-Coun<g ref="char:EOLhyphen"/>treyes, and ſhew what a maſſe of money they raiſe to pay their armies both by ſea and land meerly out of Exciſe.</p>
+            <p>Then our Church Catholikes proceed to ſhew the means how to ſettle this Exciſe which muſt be by an Army of horſe and foot; for we have made it ſure: they ſhall be Forraigners, and Germans, vvho vvill eat up the Kings revenues, and ſpoile the countreys vvhereſoever they come, though they be vvell paid; vvhat havock vvill they make then vvhen they have no pay. If the countrey be too hard for the ſouldiers, they muſt conſequently outrage, vvhich is e<g ref="char:EOLhyphen"/>qually advantagious to us.</p>
+            <p>There are three Troupes of horſe gone out of Lincolne-ſhire into Yorkſhire for the aid of the Lord Fairfax and Captaine Hotham, againſt the Earle of Cumberland and his Cavaliers: Captaine Hotham hath
+<pb n="6" facs="tcp:111989:5"/>
+made good Cawood Caſtle and Selby, and is now to joyne his Forces with the Lord Fairfax, who hath raiſed great ſtore of men for the defence of the King &amp; Parliament. There is a Lieutenant Colonell and a Ser<g ref="char:EOLhyphen"/>jeant Major of the Kings Party taken in Buckinghamſhire, and brought up to the Parliament and committed to ſafe cuſtody.</p>
+            <p>Both Houſes of Parliament have paſſed an Ordinance for the preſent ſetting forth to ſea of ten ſhips for a winter guard for Iteland, and that for all the prizes they ſhall take, a third part be divided amongſt the Commanders and Saylors in the Ship for their better encouragement; beſides the Parliament have alſo granted Letters of Surpriſall to other Merchants, to take the Rebels ſhips, or any others that ſhall offer to aſsiſt them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
